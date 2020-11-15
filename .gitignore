@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 api_testing_workshop
+.DS_Store
